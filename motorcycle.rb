@@ -23,8 +23,6 @@ end
 
 class Dealership
 
-  extend Parsing
-
   attr_reader :vehicles
 
   def initialize
